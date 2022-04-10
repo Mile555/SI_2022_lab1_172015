@@ -1,0 +1,31 @@
+1.git clone https://github.com/Mile555/SI_2022_lab1_172015.git - Go klonirame repozitoriumot na nasiot kompjuter
+2.git add shopping_list.txt
+3.git commit -m "Add 5 items to the shopping list" - 
+4.git status - Da proverime dali e se ok so novokreiraniot file
+5.git add shopping_list.txt -Go dodavame na staging area
+6.git commit -m "Add quantities to the items" - Go komitirame editiraniot file
+7.git commit -m "Add quantities to the items2" - Ispravena greska
+8.git branch branch1 -Kreiranje branch1
+9.git branch branch2 -Kreiranje branch2
+10.git push origin master -Sinhroniziranje na lokalniot so dalecniot rep
+11.git checkout branch1 -Switch na branch1
+12.git add shopping_list.txt -Go dodavame filot na staging
+13.git commit -m "Change quantity of item #5" - commit na filot shopping_list
+14.git checkout master - Switch na master
+15.git add shopping_list.txt -Go dodavame filot na staging
+16.git commit -m "Change quantity of item #2" - commit na filot shopping_list
+17.git push --all -Sinhroniziranje na lokalniot so dalecniot rep
+18.git checkout branch2 - Switch na branch2
+19.git add shopping_list.txt -Go dodavame filot na staging
+20.git commit -m "Modify #4" - commit na filot shopping_list
+21.git add shopping_lsit.txt -Go dodavame filot na staging posle izvrseno edit
+22.git commit --amend -m "Modify #4 and add item #6" - Go editirame posledniot commit
+23.git checkout master -Switch na master
+24.git merge branch1 - Gi spojuvame master i branch1
+25.git add shopping_list.txt -Go dodavame filot na staging posto manualy gi promenivme razlikite pomegju dvata fajla
+26.git commit -m "Edit before merge"- Commituvame
+27.git merge branch2 - Spojuvame master so branch2
+28.git add 172015.txt -Go dodavame filot so komandite
+29.git commit -m "Add docs" - commituvame
+30.git pull - pull before push
+31.git push --all -push
