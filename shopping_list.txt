@@ -1,5 +1,5 @@
-Milk x2
-Bread x1
-Pasta x2
-Beans x1
-Cheese x1
+Milk x 2
+Bread x 1
+Pasta x 2
+Beans x 1
+Cheese x 1
