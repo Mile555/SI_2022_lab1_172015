@@ -2,4 +2,4 @@ Milk x 2
 Bread x 1
 Pasta x 2
 Beans x 1
-Cheese x 1
+Cheese x 2
