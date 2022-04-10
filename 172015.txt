@@ -21,8 +21,8 @@
 21.git add shopping_lsit.txt -Go dodavame filot na staging posle izvrseno edit
 22.git commit --amend -m "Modify #4 and add item #6" - Go editirame posledniot commit
 23.git checkout master -Switch na master
-24.git merge branch1 - Gi spojuvame master i branch1
-25.git add shopping_list.txt -Go dodavame filot na staging posto manualy gi promenivme razlikite pomegju dvata fajla
+24.git merge branch1 - Gi spojuvame master i branch1 nema nikakov konflikt i se iskoristuva recursive strategy
+25.git add shopping_list.txt -Go dodavame filot na staging posto manualy gi promenivme razlikite pomegju dvata fajla bidejki koristejki merge branch2 ni dava konflikt. Toa go resivme so manuelno editiranje na fajlovite
 26.git commit -m "Edit before merge"- Commituvame
 27.git merge branch2 - Spojuvame master so branch2
 28.git add 172015.txt -Go dodavame filot so komandite
